@@ -1,0 +1,3 @@
+sql:
+  driver: postgres
+  data_source_name: postgres://postgres:postgrespw@localhost:49153/users?sslmode=disable
